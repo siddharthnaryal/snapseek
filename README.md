@@ -238,9 +238,3 @@ The Tags page displays all generated tags from uploaded screenshots. It stores o
 - Folder creation by user
 - Multi-image upload support
 - Advanced search with category and tag filters
-
----
-
-## Author
-
-**Siddharth Naryal**
