@@ -241,14 +241,6 @@ The Tags page displays all generated tags from uploaded screenshots. It stores o
 
 ---
 
-## Resume Description
-
-Built SnapSeek, an OCR-powered screenshot search engine that extracts text from uploaded screenshots and makes them searchable.
-
-Implemented drag-and-drop upload, OCR text extraction, automatic tag generation, category detection, sensitive-content detection, search, filters, tag-based collections, and MongoDB-backed screenshot history using React, Node.js, Express, MongoDB, Multer, Axios, and Tesseract.js.
-
----
-
 ## Author
 
 **Siddharth Naryal**
