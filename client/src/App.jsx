@@ -509,6 +509,7 @@ const tagFolders = allTags.map((tag) => ({
             <>
               <div className="history-title-area">
                 <h1>{searchQuery ? "Search Results" : "Screenshot History"}</h1>
+                <br></br>
                 <p>{filteredScreenshots.length} items found</p>
               </div>
 
