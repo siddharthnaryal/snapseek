@@ -213,14 +213,17 @@ The Tags page displays all generated tags from uploaded screenshots. It stores o
 
 ## Screenshots
 
-Add your project screenshots here after uploading them to GitHub.
-
-```md
+### Home Page
 ![SnapSeek Home](./screenshots/home.png)
+
+### Collections Page
 ![SnapSeek Collections](./screenshots/collections.png)
+
+### History Page
 ![SnapSeek History](./screenshots/history.png)
+
+### Tags Page
 ![SnapSeek Tags](./screenshots/tags.png)
-```
 
 ---
 
